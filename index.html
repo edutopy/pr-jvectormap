@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Puerto Rico jVectorMap</title>
+  <meta name="author" content="Iván Rivera">
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="assets/jquery-jvectormap-1.2.2.css" type="text/css" media="screen"/>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="assets/jquery-jvectormap-1.2.2.min.js"></script>
+  <script src="assets/jquery-jvectormap-pr.js"></script>
+</head>
+<body>
+<h1>Puerto Rico y sus Municipios</h1>
+  <div id="pr-map" style="width: 100%; height: 400px"></div>
+<p>Las áreas sin definición "undefined" pueden ser pequeñas islas pertenecientes a Puerto Rico. </p>
+<p>También pueden ser áreas entre los municipios creadas automáticamente por el programa que creó el SVG.</p>
+  <script>
+    $(function(){
+      $('#pr-map').vectorMap({map: 'puerto_rico'});
+    });
+  </script>
+</body>
+</html>
