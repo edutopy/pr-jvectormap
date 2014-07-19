@@ -7,7 +7,7 @@ https://github.com/inaki/puerto-rico-map-raphaeljs
 ## What you will found here?
 - A map of Puerto Rico divided in tiles in .svg format.
 - JVector 1.2.2 css and js files.
-- and The Puerto Rico JVector Map. 
+- and The Puerto Rico JVector Map.
 
 
 ### License Whatever
