@@ -1,7 +1,7 @@
 Puerto Rico jvector Map
 =========================
 
-This is a JVector implementation of the .svg from the Inaki Puerto Rico Map in Raphael.js project.
+This is a JVector implementation of the .svg from the Inaki Raphael.js Puerto Rico Map project.
 https://github.com/inaki/puerto-rico-map-raphaeljs
 
 ## What you will found here?
