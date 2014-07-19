@@ -16,7 +16,7 @@ This means, do whatever you want with the code!
 
 ### Demo
 
-For Demo please visit this page.
+For a demo please visit this page.
 http://edutopy.github.io/pr-jvectormap/
 
 
